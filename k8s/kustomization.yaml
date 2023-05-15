@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: marcelorocha/gitopsfc
-  newTag: 2fc5bacce54553748229a185097d2817244bd5f2
+  newTag: c609a8dc9dc36c65f2f9d266d426dbef3a2ef83b
